@@ -1,13 +1,13 @@
 # Open Data Kit for Open Form 
 
-Asa Pramudya
-5212100051
+* Nama : Asa Pramudya
+* Nrp : 5212100051
 
 ## Open Data Kit
 
 You need to follow this few steps to make a form with Open Data Kit
 <ol>
-<li>Download Open Data Kit ([Click Here][2])
+<li>Download Open Data Kit [Click Here][2]
 <li>You need to have SQL server and tomcat at least version 6. I suggest using xampp newest version ([Click Here][2])
 <li>Install Open Data Kit and Xampp in your PC or laptop
 <li>On Install Open Data Kit make sure you remember the name of Database you use for the Open Data Kit
@@ -40,10 +40,10 @@ This Form is Surat Penugasan which contains :
 <ol>
 <li>To see the form in Open Data Kit ([click here][5])
 <li>To see the result of the form ([click here][6])
-
- [1] : https://opendatakit.org/downloads/
- [2] : https://www.apachefriends.org/download.html
- [3] : https://www.apachefriends.org/download.html
- [4] : https://www.apachefriends.org/download.html
- [5] : https://www.apachefriends.org/download.html
- [6] : https://www.apachefriends.org/download.html
+      
+ [1]: https://opendatakit.org/downloads/
+ [2]: https://www.apachefriends.org/download.html
+ [3]: https://www.apachefriends.org/download.html
+ [4]: https://www.apachefriends.org/download.html
+ [5]: https://www.apachefriends.org/download.html
+ [6]: https://www.apachefriends.org/download.html
