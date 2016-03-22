@@ -40,10 +40,10 @@ This Form is Surat Penugasan which contains :
 <ol>
 <li>To see the form in Open Data Kit ([click here][5])
 <li>To see the result of the form ([click here][6])
-      
-[1] : https://opendatakit.org/downloads/
-[2] : https://www.apachefriends.org/download.html
-[3] : https://www.apachefriends.org/download.html
-[4] : https://www.apachefriends.org/download.html
-[5] : https://www.apachefriends.org/download.html
-[6] : https://www.apachefriends.org/download.html
+
+ [1] : https://opendatakit.org/downloads/
+ [2] : https://www.apachefriends.org/download.html
+ [3] : https://www.apachefriends.org/download.html
+ [4] : https://www.apachefriends.org/download.html
+ [5] : https://www.apachefriends.org/download.html
+ [6] : https://www.apachefriends.org/download.html
