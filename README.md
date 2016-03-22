@@ -45,5 +45,5 @@ Here some pictures of the Form we made
  [2]: https://www.apachefriends.org/download.html
  [3]: https://github.com/asavizard/TOST/blob/master/form%20penugasan.xml
  [4]: https://github.com/asavizard/TOST/blob/master/letter.doc
- [img1]: /gambar/tampilan app.PNG "SS ODK"
+ [img1]: /gambar/tampilan%20app.PNG "SS ODK"
  [img2]: /gambar/hasil.PNG "SS ODK"
