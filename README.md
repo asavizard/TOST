@@ -43,7 +43,7 @@ This Form is Surat Penugasan which contains :
      
  [1]: https://opendatakit.org/downloads/
  [2]: https://www.apachefriends.org/download.html
- [3]: https://www.apachefriends.org/download.html
- [4]: https://www.apachefriends.org/download.html
+ [3]: https://github.com/asavizard/TOST/blob/master/form%20penugasan.xml
+ [4]: https://github.com/asavizard/TOST/blob/master/letter.doc
  [5]: https://www.apachefriends.org/download.html
  [6]: https://www.apachefriends.org/download.html
