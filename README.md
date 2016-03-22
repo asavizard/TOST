@@ -37,13 +37,13 @@ This Form is Surat Penugasan which contains :
 
 
 ## Documentation
-
- 1. To see the form in Open Data Kit ([click here][5])
- 2. To see the result of the form ([click here][6])
+Here some pictures of the Form we made
+ ![SS ODK][img1]
+ ![SS ODK][img2]
      
  [1]: https://opendatakit.org/downloads/
  [2]: https://www.apachefriends.org/download.html
  [3]: https://github.com/asavizard/TOST/blob/master/form%20penugasan.xml
  [4]: https://github.com/asavizard/TOST/blob/master/letter.doc
- [5]: https://www.apachefriends.org/download.html
- [6]: https://www.apachefriends.org/download.html
+ [img1]: /gambar/tampilan app.PNG "SS ODK"
+ [img2]: /gambar/hasil.PNG "SS ODK"
